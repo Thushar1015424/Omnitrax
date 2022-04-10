@@ -9,3 +9,5 @@
 ~ A web application with the relevant functionalities will be offered for connecting the components together and enabling user interface.<br>
 ~ Our product will have 3 different users:  a. Organizations.   b. Security / Logistics Department c. Inspection Department.<br>
 ~ Estimated End Product Development Cost:  ₹ 500/- Estimated Time of Development: 3 weeks<br>
+<br>
+<img src="Flowchart.jpeg">
